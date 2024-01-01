@@ -1,1 +1,1 @@
-print("hello")
+nzt = input('Enter your name: ')
